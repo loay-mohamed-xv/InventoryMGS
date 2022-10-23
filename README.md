@@ -1,12 +1,6 @@
 # inventory-management
 This is a inventory management system
 
-# How to Setup
-1. Clone Project
-```
-git clone https://github.com/sajib1066/inventory-management.git
-```
-
 2. Go To Project Directory
 ```
 cd inventory-management
